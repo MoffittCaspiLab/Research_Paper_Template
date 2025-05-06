@@ -1,23 +1,25 @@
-# Research_Paper_Template
+# Project README
+
+## Research_Paper_Template
 Template for individual research papers
 
-# Title of Paper: 
+## Title of Paper: 
 asdf
 
-# Metadata: 
+## Metadata: 
 asdf
 
-# Summary and Contents: 
+## Summary and Contents: 
 asdf
 
-# File List: 
+## File List: 
 asdf
 
-# Usage Instructions: 
+## Usage Instructions: 
 asdf
 
-# How To Obtain Data: 
+## How To Obtain Data: 
 asdf
 
-# Referencing: 
+## Referencing: 
 asdf

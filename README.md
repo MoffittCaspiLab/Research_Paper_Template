@@ -1,7 +1,6 @@
 # Project README
 
-## Research_Paper_Template
-Template for individual research papers
+This is a template README for individual projects going forwards.
 
 ## Title of Paper: 
 asdf
@@ -16,7 +15,11 @@ asdf
 asdf
 
 ## Usage Instructions: 
-asdf
+### Software Requirements
+
+### Setup Instructions
+
+### Usage Guide
 
 ## How To Obtain Data: 
 asdf

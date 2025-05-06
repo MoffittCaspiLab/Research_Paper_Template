@@ -2,27 +2,30 @@
 
 This is a template README for individual projects going forwards.
 
-## Title of Paper: 
+## 1) Title of Paper: 
 asdf
 
-## Metadata: 
+## 2) Metadata: 
 asdf
 
-## Summary and Contents: 
+## 3) Summary and Contents: 
 asdf
 
-## File List: 
+## 4) File List: 
 asdf
 
-## Usage Instructions: 
-### Software Requirements
-
-### Setup Instructions
-
-### Usage Guide
-
-## How To Obtain Data: 
+## 5) Usage Instructions: 
+### a) Software Requirements
 asdf
 
-## Referencing: 
+### b) Setup Instructions
+asdf
+
+### c) Usage Guide
+asdf
+
+## 6) How To Obtain Data: 
+asdf
+
+## 7) Referencing: 
 asdf
